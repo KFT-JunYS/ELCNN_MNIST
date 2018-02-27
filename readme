@@ -3,3 +3,5 @@ TEST accuracy = 99% 정도 나온다.
 
 FC1 의 크기를 크게 주면 학습하는데 시간은 좀 더 걸리고, Accuracy 는 올라간다.
 
+pseudo inverse 에 대한 내용은 여기 링크에 잘 나와있다.
+ - http://darkpgmr.tistory.com/108
